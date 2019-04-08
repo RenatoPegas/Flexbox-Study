@@ -6,7 +6,6 @@
 
 .mainHeader-nav{
     display: flex;
-    
 }
 
 .rodapePrincipal-patrocinadores .container{
@@ -37,3 +36,14 @@
     flex-flow: column wrap;
     height: 250px;
 }
+
+.mainContent-courses{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.mainContent-courses-link{
+    width: 20%;
+}
+
